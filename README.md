@@ -11,26 +11,30 @@
  3. 调用本地的hugo，将markdown文章转化成html静态页面，并自动部署
 
 流程图：
+
 ![](https://github.com/hiproz/hiproz.github.io/blob/master/goodmemory.cc/blog/images/2015/12/github-hugo-sync.jpg)
 
 至此，只要在这里更新的内容，就自动转化成网站页面了。
 
 # 文档头规范
 
-  ---
-  title: Frontend Development
-  author: admin
-  layout: post
-  date: 2013-06-22
-  url: /frontend-development/
-  categories:
-    - http/css
-    - javascript
-  tags:
-    - Frontend Development
-  
-  ---
-  
-注意，最后的---前面是2个换行。
+hugo 对文档头部是有一定要求的，否则可能导致转换失败或则无法正常显示网页。
+下面是正文头开始：
+---
+title: Frontend Development
+author: admin
+layout: post
+date: 2013-06-22
+url: /frontend-development/
+categories:
+  - http/css
+  - javascript
+tags:
+  - Frontend Development
+
+---
+上面是正文头结束
+
+注意：最后的---前面是2个换行。
 
 have fun！
