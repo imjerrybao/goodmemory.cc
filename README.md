@@ -20,21 +20,20 @@
 # 文档头规范
 
 hugo 对文档头部是有一定要求的，否则可能导致转换失败或则无法正常显示网页。
-下面是正文头开始：
----
-title: Frontend Development
-author: admin
-layout: post
-date: 2013-06-22
-url: /frontend-development/
-categories:
-  - http/css
-  - javascript
-tags:
-  - Frontend Development
 
----
-上面是正文头结束
+ ---
+ title: Frontend Development
+ author: admin
+ layout: post
+ date: 2013-06-22
+ url: /frontend-development/
+ categories:
+   - http/css
+   - javascript
+ tags:
+   - Frontend Development
+ 
+ ---
 
 注意：最后的---前面是2个换行。
 
