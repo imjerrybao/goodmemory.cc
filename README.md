@@ -6,9 +6,10 @@
 
 # HOW
 
- 1. 设置github的webservice hook。在收到push事件后，向目标网站发消息。
- 2. 目标网站收到消息后git pull，得到最新的文章内容
- 3. 调用本地的hugo，将markdown文章转化成html静态页面，并自动部署
+ 1. 设置github的webservice hook。当完成一篇新的文章或者修改旧的文章后，github就会向目标网站发webservice hook消息。
+ 2. 目标网站收到消息后git pull，解析消息特征，更新相关的文档，最后调用hugo
+ 3. hugo将markdown文章转化成html静态页面
+ 4. 将html页面部署到目标web服务器
 
 流程图：
 
