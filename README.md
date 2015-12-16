@@ -28,8 +28,8 @@ layout: post
 date: 2013-06-22
 url: /frontend-development/
 categories:
-  - http/css
-  - javascript
+- http/css
+- javascript
 tags:
 - Frontend Development
 
