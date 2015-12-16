@@ -1,6 +1,6 @@
 ---
 title: "hugo-md文档书写时的格式说明"
-description: "specify the format of the hugo file"
+description: "文章详细介绍在hugo下书写markdown时的格式和字段问题，如果你想使用hugo，这个将是必看的文章之一"
 tags: [ "hugo" ]
 date: "2015-12-17"
 url: /hugo-md文档书写时的格式说明/
