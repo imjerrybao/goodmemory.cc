@@ -21,20 +21,20 @@
 
 hugo 对文档头部是有一定要求的，否则可能导致转换失败或则无法正常显示网页。
 
- ---
- title: Frontend Development
- author: admin
- layout: post
- date: 2013-06-22
- url: /frontend-development/
- categories:
-   - http/css
-   - javascript
- tags:
-   - Frontend Development
- 
- ---
+---
+title: Frontend Development
+author: admin
+layout: post
+date: 2013-06-22
+url: /frontend-development/
+categories:
+  - http/css
+  - javascript
+tags:
+- Frontend Development
 
-注意：最后的---前面是2个换行。
+---
+
+注意：最后的---前面有1个换行。
 
 have fun！
