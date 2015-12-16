@@ -1,9 +1,7 @@
 # WHAT
-i study the static blog tools of hugo, so i think i will use hugo for my new blog framework. 
-the hugo can convert the markdown file to html, so i can use the github as a editor of the md file .
+这个repo是http://www.goodmemory.cc的文章在线编辑器和仓库。在这里写的文章将会自动同步到目标网站，并转化成静态网页。
 
 # HOW
-first, you write the artical in the github.then you can use a scripte to download the md file from github and be used for hugo .
-so the github will become your online blog editor.
+first, you write the artical in the github.then you can use a scripte to download the md file from github and be used 
 
 it is fun!
