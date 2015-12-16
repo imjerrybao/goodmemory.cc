@@ -92,7 +92,7 @@ Content of the file goes Here
 
 ## 可选字段
 * aliases: [别名](https://gohugo.io/extras/aliases/)
-* daft: 是否是草稿
+* draft: 是否是草稿
 * publishdate: 定时未来发布的时间
 * type: 内容的格式，可以从内容自动识别
 * isCJKLanguage：是否时CJK
