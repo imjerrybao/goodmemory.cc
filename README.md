@@ -21,19 +21,19 @@
 
 hugo 对文档头部是有一定要求的，否则可能导致转换失败或则无法正常显示网页。
 
-/---
+<pre>---
 title: Frontend Development
 author: admin
 layout: post
 date: 2013-06-22
 url: /frontend-development/
 categories:
-/- http/css
-/- javascript
+- http/css
+- javascript
 tags:
-/- Frontend Development
+- Frontend Development
 
-/---
+---</pre>
 
 注意：最后的---前面有1个换行。
 
