@@ -6,25 +6,31 @@
 
 # HOW
 
-1. 设置github的webservice hook。在收到push事件后，向目标网站发消息。
-2. 目标网站收到消息后git pull，得到最新的文章内容
-3. 调用本地的hugo，将markdown文章转化成html静态页面，并自动部署
+ 1. 设置github的webservice hook。在收到push事件后，向目标网站发消息。
+ 2. 目标网站收到消息后git pull，得到最新的文章内容
+ 3. 调用本地的hugo，将markdown文章转化成html静态页面，并自动部署
+
 流程图：
 ![](https://github.com/hiproz/hiproz.github.io/blob/master/goodmemory.cc/blog/images/2015/12/github-hugo-sync.jpg)
+
 至此，只要在这里更新的内容，就自动转化成网站页面了。
 
 # 文档头规范
 
----
-title: 修改 wordpress 新建文章默认文件附件大小
-author: admin
-layout: post
-date: 2013-06-15
-url: /修改-wordpress-新建文章默认文件附件大小/
-duoshuo_thread_id:
-  - 6218977932405113601
-categories:
-  - 杂谈
+  ---
+  title: Frontend Development
+  author: admin
+  layout: post
+  date: 2013-06-22
+  url: /frontend-development/
+  categories:
+    - http/css
+    - javascript
+  tags:
+    - Frontend Development
+  
+  ---
+  
+注意，最后的---前面是2个换行。
 
----
 have fun！
