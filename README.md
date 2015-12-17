@@ -3,9 +3,9 @@
 当学习完hugo后，就觉得hugo是一个不错的框架，但是从完成md文档，到看到网页，整个流程相对wordpress这种还是显得太geek了。如果能有一个类似的写作流程和体验就完美了，于是就有了下面的内容。
 
 * 一个在线的blog写作工具和文章仓库：这个repo是[http://www.goodmemory.cc](http://www.goodmemory.cc)的文章仓库，我们把githu当作博客写作工具，github的编辑器还是比Mon好用多了。
-* 一个hugo示例网站，包含theme，tag，categories等的展示和配置说明。
+* 一个hugo示例网站：包含theme，tag，categories等的展示和配置说明。
 
-所有上面的两项内容都是实时向网站同步的，你做的任何网站配置修改或着文章修改，都会自动同步到[http://www.goodmemory.cc](http://www.goodmemory.cc)
+所有上面的两项内容都是实时向网站同步的，这里做的任何网站配置修改或着文章修改，都会自动同步到[http://www.goodmemory.cc](http://www.goodmemory.cc)
 
 # HOW
 
