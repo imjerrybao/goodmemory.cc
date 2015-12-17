@@ -2,7 +2,7 @@
 author: "admin"
 date: 2015-12-18
 title: VPS
-layout: main
+layout: page
 url: /vps/
 aliases:
   - "/vps.html"
