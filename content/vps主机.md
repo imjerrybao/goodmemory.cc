@@ -18,7 +18,7 @@ aliases:
 
 啥也不说了，市场和口碑基本第一了，不过最近好像日本主机缺货，如果想选日本的，可能要再考虑了
 
-<span style="font-size:24px;">快速购买</span>![][1](https://www.linode.com/?r=2fa981ec5f16e4c0d7eb33d3b665826a7dbb4283)
+<span style="font-size:24px;">快速购买</span>[![][1]](https://www.linode.com/?r=2fa981ec5f16e4c0d7eb33d3b665826a7dbb4283)
 
 <span style="line-height:1.5;font-size:32px;"><a href="http://www.vultr.com/?ref=6848323" target="_blank"><u>vultr</u></a></span> 
 
@@ -32,19 +32,19 @@ Vultr最新50美元优惠码：
 <span style="vertical-align:baseline;background:transparent;">50for60</span>
 优惠内容：其针对新用户的，但是有60天的限制，60天内必须使用完50美元。（这枚优惠码只能用信用卡激活，激活收2.5美元的验证费，验证通过返还2.5美元）
 
-<span style="font-size:24px;">快速购买</span>![][2](http://www.vultr.com/?ref=6848323)
+<span style="font-size:24px;">快速购买</span>[![][2]](http://www.vultr.com/?ref=6848323)
 
 <a href="https://billing.chicagovps.net/aff.php?aff=1641" target="_blank"><span style="line-height:1.5;font-size:32px;">chicagovps</span><span style="line-height:1.5;font-size:32px;"></span></a> 
 
 ChicagoVPS成立时间较久，2010年就成立了，不过这家口碑比较一般，产品稳定性也比较一般，主机商提供OpenVZ和KVM架构的产品，数据中心包括美国洛杉矶、圣何塞、芝加哥、纽约等。
 
-<span style="font-size:24px;">快速购买</span>![][3](https://billing.chicagovps.net/aff.php?aff=1641)
+<span style="font-size:24px;">快速购买</span>[![][3]](https://billing.chicagovps.net/aff.php?aff=1641)
 
 <a href="https://www.budgetvm.com/account/aff.php?aff=2085" target="_blank"><span style="line-height:1.5;font-size:32px;">BudgetVM</span><span style="line-height:1.5;font-size:32px;"></span></a> 
 
 BudgetVM是一家国外IDC，自建机房提供独立服务器租用、VPS等，数据中心包括美国洛杉矶、芝加哥、达拉斯等等。主机很便宜，速度一般，稳定性还好。可以优选Xen主机
 
-<span style="font-size:24px;">快速购买</span>![][4](https://www.budgetvm.com/account/aff.php?aff=2085)
+<span style="font-size:24px;">快速购买</span>[![][4]](https://www.budgetvm.com/account/aff.php?aff=2085)
 
 其他大家用过的好的也欢迎补充。。。
 
