@@ -16,7 +16,7 @@
 
 流程图：
 
-![](https://github.com/hiproz/hiproz.github.io/blob/master/goodmemory.cc/blog/images/2015/12/github-hugo-sync.jpg)
+![](http://hiproz.github.io/goodmemory.cc/blog/images/2015/12/github-hugo-sync.jpg)
 
 至此，只要在这里更新的内容，就自动转化成网站页面了。
 
