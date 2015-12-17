@@ -1,9 +1,9 @@
 ---
 author: "admin"
 date: 2015-12-18
-title: 通过event-hook将github自动部署至Hugo网站
+title: 通过event-hook将Github自动部署至Hugo网站
 layout: page
-url: /通过event-hook将github自动部署至Hugo网站/
+url: /通过event-hook将github自动部署至hugo网站/
 aliases:
   - "/deploy-github-to-hugo-in-hook-event/"
   - "/deploy-github-to-hugo-in-hook-event.html"
