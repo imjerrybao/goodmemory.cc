@@ -24,12 +24,14 @@ aliases:
 
 Vultr是家发展不错的美国云主机服务商，Vultr提供低廉的SSD云主机。最便宜的一款云主机仅仅需要5美元/月。重要的是vultr提供很多地区的IDC选择，这点对很多场景很有用
 
-Vultr最新20美元优惠码：
+Vultr最新20美元优惠码： 
 <span style="vertical-align:baseline;background:transparent;">SSDVPS</span>
+
 优惠内容：新注册用户使用，奖励20美元，无使用期限限制
 
-Vultr最新50美元优惠码：
+Vultr最新50美元优惠码： 
 <span style="vertical-align:baseline;background:transparent;">50for60</span>
+
 优惠内容：其针对新用户的，但是有60天的限制，60天内必须使用完50美元。（这枚优惠码只能用信用卡激活，激活收2.5美元的验证费，验证通过返还2.5美元）
 
 <span style="font-size:24px;">快速购买</span>[![][2]](http://www.vultr.com/?ref=6848323)
