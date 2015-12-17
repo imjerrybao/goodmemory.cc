@@ -1,11 +1,10 @@
 ---
 author: "admin"
 date: 2015-12-18
-title: vps主机
+title: VPS
 layout: main
-url: /vps主机/
+url: /vps/
 aliases:
-  - "/vps/"
   - "/vps.html"
   
 ---
