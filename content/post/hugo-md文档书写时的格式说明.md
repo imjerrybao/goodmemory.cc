@@ -16,7 +16,9 @@ slug: ""
 以便达到正确和高效。
 
 阅读查找了gohugo.io的所有相关页面，找到以下两个相关的内容基本上说的很清楚了：
+
 [https://gohugo.io/content/front-matter/](https://gohugo.io/content/front-matter/)
+
 [https://gohugo.io/content/archetypes/](https://gohugo.io/content/archetypes/)
 
 # 头格式
