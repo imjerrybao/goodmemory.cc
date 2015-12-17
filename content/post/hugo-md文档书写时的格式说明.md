@@ -15,10 +15,8 @@ slug: ""
 在决定使用自动化流程后，第一个面临的问题就是，这个文档头的格式到底是什么样的，因为现在你要手写，就需要彻底搞清楚，
 以便达到正确和高效。
 
-阅读查找了gohugo.io的所有相关页面，找到以下两个相关的内容基本上说的很清楚了：
-
-[https://gohugo.io/content/front-matter/](https://gohugo.io/content/front-matter/)
-
+阅读查找了gohugo.io的所有相关页面，找到以下两个相关的内容基本上说的很清楚了：  
+[https://gohugo.io/content/front-matter/](https://gohugo.io/content/front-matter/)  
 [https://gohugo.io/content/archetypes/](https://gohugo.io/content/archetypes/)
 
 # 头格式
