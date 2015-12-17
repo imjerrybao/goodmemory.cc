@@ -105,4 +105,4 @@ Content of the file goes Here
 
 [hugo markdown引擎的配置](http://gohugo.io/overview/configuration/#configure-blackfriday-rendering:a66b35d20295cb764719ac8bd35837ec)
 
-finish
+finish!
