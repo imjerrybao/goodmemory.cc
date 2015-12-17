@@ -10,7 +10,7 @@ slug: ""
 
 ---
 
-# 前言
+## 前言
 
 在决定使用自动化流程后，第一个面临的问题就是，这个文档头的格式到底是什么样的，因为现在你要手写，就需要彻底搞清楚，
 以便达到正确和高效。
@@ -19,7 +19,7 @@ slug: ""
 [https://gohugo.io/content/front-matter/](https://gohugo.io/content/front-matter/)  
 [https://gohugo.io/content/archetypes/](https://gohugo.io/content/archetypes/)
 
-# 头格式
+## 头格式
 
 md只是文档的类型，但是里面的内容遵循怎样的格式呢？
 hugo目前支持3中toml，yaml，json，三种格式的文件头。识别符号分别如下
@@ -81,16 +81,16 @@ json示例：
 Content of the file goes Here
 </pre>
 
-# 字段变量
+## 字段变量
 文档可以包含很多变量。
 
-## 必要字段
+### 必要字段
 * tile: 内容的标题
 * description: 内容的描述
 * date:日期
 * taxonomies:分类字段，包括tag和categories
 
-## 可选字段
+### 可选字段
 * aliases: [别名](https://gohugo.io/extras/aliases/)
 * draft: 是否是草稿
 * publishdate: 定时未来发布的时间
